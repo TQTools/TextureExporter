@@ -3,7 +3,7 @@
 This program transforms .tex files used as textures by the game [Titan Quest](https://titanquestgame.com) to .png images.
 
 ## A. How to use ?
-1. Run the executable.
+1. Run the executable "TQTools - TextureExporter.exe".
 2. Select a folder.
     * All .tex files in this folder and subfolder will be transformed. 
     * You will find the .png files will be in the newly created folder Exports.
