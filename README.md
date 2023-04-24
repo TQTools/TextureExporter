@@ -10,6 +10,8 @@ This program transforms .tex files used as textures by the game [Titan Quest](ht
 3. Press a key or close.
 
 ## B. Requirements
+*   Windows operating system.
+
 The releases provides 4 additional files that are necessary to run the program.
 *   TextureViewer.exe (made by Max McGuire, see Help -> About)
     *   This file must not be moved. It must be in the same folder as the TextureExporter executable.
