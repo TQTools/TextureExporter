@@ -14,7 +14,6 @@ This program transforms Texture (.tex) files used as textures by the game [Titan
     * All .tex files will be copied in the Exports folder located in the same folder as the executable
 3. Choose the export format
     * All .tex files will be converted to the chosen format
-4. Press ENTER to close
 
 ## B. Requirements
 *   Windows XP or newer operating system.
